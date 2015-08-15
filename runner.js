@@ -15,6 +15,8 @@
  * <https://github.com/v0lkan/board/issues>
  */
 
+// TODO: rename this module. we already have a `board.runner`.
+
 Object.defineProperty(exports, '__esModule', {
     value: true
 });
