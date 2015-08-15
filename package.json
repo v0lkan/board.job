@@ -1,0 +1,28 @@
+{
+  "name": "board.job",
+  "version": "0.1.0",
+  "description": "A job execution helper for \"board\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v0lkan/board.job.git"
+  },
+  "keywords": [
+    "board",
+    "board.job",
+    "helper"
+  ],
+  "author": "Volkan Özçelik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/v0lkan/board.job/issues"
+  },
+  "homepage": "https://github.com/v0lkan/board.job#readme",
+  "dependencies": {
+    "board.log": "^0.1.0",
+    "board.queue": "^0.1.0"
+  }
+}
